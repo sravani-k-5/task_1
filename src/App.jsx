@@ -1,21 +1,15 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// import './App.css'
-// import React from 'react'
-import Text from './Text.jsx'
+import React from 'react'
+import './App.css'
+import Login from './form/login'
+
 
 function App() {
-  const str="sravs";
-  
   return (
     <>
-    <Text/>
-    <h1>{str}</h1>
-    <p>hello sravani this is react js !!!!!</p>
-
+    <Login/>
     </>
   )
 }
 
 export default App
+

@@ -1,0 +1,17 @@
+/* src/components/AboutMe.css */
+.about-me {
+    padding: 50px 20px;
+    background-color: #fff;
+  }
+  
+  .about-me h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .about-me p {
+    text-align: center;
+    color: #666;
+    font-size: 1rem;
+  }
+  
